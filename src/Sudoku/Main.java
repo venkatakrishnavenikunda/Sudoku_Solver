@@ -117,6 +117,7 @@ public class Main {
 		{
 			System.out.println("You entered an invalid sudoku");
 			System.out.println("This sudoku can't be solved...");
+			System.out.println("Ending....");
 		}
 	}
 
